@@ -23,5 +23,7 @@ public class MaxElement {
         }
 
         System.out.println("The maximum number is "+ Max);
+
+        sc.close();
     }
 }

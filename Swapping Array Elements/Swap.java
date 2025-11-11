@@ -24,6 +24,8 @@ public class Swap {
         System.out.println("Array before swapping " + Arrays.toString(arr));
 
         swap(arr , 1 ,3);
+
+        sc.close();
     }
 
 }
