@@ -1,0 +1,1 @@
+# Given a English alphabet c, Write a program to check whether a character is a vowel or not.
