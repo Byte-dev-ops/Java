@@ -1,4 +1,3 @@
-import java.util.*;
 class CheckVowel {
     String isVowel(char c) {
         c = Character.toLowerCase(c);

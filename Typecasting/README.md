@@ -1,0 +1,1 @@
+# Typecasting into Integer from string and double it.
