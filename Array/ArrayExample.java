@@ -16,7 +16,7 @@ public class ArrayExample {
         }
 
 
-        // Using To String method to display the array
+        // Using { toString } method to display the array
         System.out.println(Arrays.toString(arr));
 
 
